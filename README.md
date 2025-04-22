@@ -28,7 +28,7 @@ A comprehensive security reconnaissance and vulnerability scanning tool for ethi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/hunters-multitool.git
+git clone https://github.com/ugurhidir/hunters-multitool.git
 cd hunters-multitool
 ```
 
