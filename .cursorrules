@@ -1,0 +1,25 @@
+{
+  "rules": {
+    "python.formatting.provider": "black",
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": [
+      "--max-line-length=120",
+      "--ignore=E203,W503"
+    ],
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "ms-python.python",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "files.encoding": "utf8",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "files.exclude": {
+      "**/__pycache__": true,
+      "**/.venv": true,
+      "**/.vscode": true
+    }
+  },
+  "description": "Hunters-Multitool Projesi için Cursor Kodlama Kuralları",
+  "version": "1.0.0"
+}
